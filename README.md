@@ -1,0 +1,1 @@
+# clothing_collection_box_optimum_place
